@@ -17,10 +17,10 @@ export default function ContactPage() {
             applications with a focus on clarity and performance.
           </p>
           <a
-            href="mailto:hello@ajaybala.dev"
+            href="mailto:ajaybala495@gmail.com"
             className="mt-8 inline-flex rounded-lg bg-blue-500 px-6 py-3 font-medium text-white transition hover:bg-blue-400"
           >
-            hello@ajaybala.dev
+            ajaybala495@gmail.com
           </a>
         </div>
       </section>

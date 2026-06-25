@@ -1,8 +1,8 @@
 const skills = {
   Frontend: ["React", "Next.js", "Tailwind", "JS/TS"],
   Backend: ["Node.js", "Express", "REST API"],
-  Database: ["MongoDB", "Mongoose", "JSON"],
-  Tools: ["Git", "Vercel", "Postman"],
+  Database: ["MongoDB", "MySQL", "Supabase"],
+  Tools: ["Git", "Github", "Vercel", "Postman","Notion", "Figma"],
 };
 
 export default function Skills() {
